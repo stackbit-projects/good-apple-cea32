@@ -23,7 +23,7 @@
             {
                 "label": "寄付",
                 "url": "/faq",
-                "style": "link"
+                "style": "primary"
             },
             {
                 "label": "始めてみる",
