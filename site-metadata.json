@@ -41,7 +41,8 @@
                 "style": "primary"
             }
         ],
-        "has_anncmnt": false
+        "has_anncmnt": false,
+        "logo": "images/アートボード – 1.png"
     },
     "footer": {
         "logo": "images/logo.svg",
